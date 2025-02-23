@@ -1,0 +1,546 @@
+Placeholder:
+
+
+
+
+
+
+
+Absol:
+Super Luck
+Feint
+Night Slash
+Pursuit
+Slash
+Psycho Cut
+Sucker Punch
+Aegislash:
+Stance Change
+Shadow Sneak
+Sacred Sword
+Shadow Claw
+Iron Defense
+King's Shield
+Iron Head
+Armarouge:
+Flash Fire
+Incinerate
+Fire Spin
+Armor Cannon
+Will-O-Wisp
+Flame Charge
+Psyshock
+Azumarill:
+Huge Power
+Tackle
+Play Rough
+Water Pulse
+Bubble
+Whirlpool
+Aqua Tail
+Blastoise:
+Torrent
+Water Gun
+Hydro Pump
+Water Spout
+Skull Bash
+Surf
+Rapid Spin
+Blaziken:
+Blaze 
+Aerial Ace
+Fire Punch
+Overheat
+Ember
+Focus Blast 
+Blaze Kick
+Blissey:
+Natural Cure
+Pound
+Egg Bomb
+Helping Hand
+Heal Pulse
+Soft-Boiled
+Safeguard
+Buzzwole:
+Beast Boost
+Mega Punch
+Lunge
+Smack Down
+Fell Stinger
+Leech Life
+Superpower
+Ceruledge:
+Weak Armor
+Lava Plume
+Bitter Blade
+Psycho Cut
+Take Down
+Phantom Force
+Flame Charge
+Chandelure:
+Infiltrator
+Ember
+Flamethrower
+Overheat
+Night Shade
+Poltergeist
+Imprison
+Charizard:
+Blaze
+Flame Burst
+Flamethrower
+Fire Punch
+Fire Spin
+Fire Blast
+Flare Blitz
+Cinderace:
+Blaze
+Ember
+Pyro Ball
+Blaze Kick
+Low Sweep
+Flame Charge
+Feint
+Clefable:
+Magic Guard
+Heal Pulse
+Moonlight
+Draining Kiss
+Disarming Voice
+Gravity
+Follow Me
+Comfey:
+Triage
+Synthesis
+Floral Healing
+Sweet Kiss
+Vine Whip 
+Magical Leaf
+Grass Knot
+Cramorant:
+Gulp Missile
+Whirlpool
+Surf
+Dive
+Feather Dance
+Hurricane
+Air Slash
+Crustle:
+Sturdy
+Rock Slide
+Rock Tomb
+Shell Smash
+Fury Cutter
+Stealth Rock
+X-Scissor
+Darkrai:
+Bad Dreams
+Hypnosis
+Dark Void
+Shadow Claw
+Calm Mind
+Nasty Plot 
+Dark Pulse
+Decidueye:
+Long Reach
+Leafage
+Razor Leaf
+Spirit shackle
+Astonish
+Leaf Storm
+Shadow Sneak
+Delphox:
+Blaze
+Ember
+Fire Blast
+Mystical Fire
+Will-O-Wisp
+Fire Spin
+Flame Charge
+Dodrio:
+Run Away
+Peck
+Tri Attack
+Drill Peck
+Quick Attack
+Agility
+Jump Kick
+Dragapult:
+Clear Body
+Astonish
+Dragon Breath
+Shadow Ball
+Quick Attack
+Dragon Dance
+Phantom Force
+Dragonite:
+Multiscale
+Twister
+Dragon Dance
+Extreme Speed
+Dragon Breath
+Hyper Beam
+Outrage
+Duraludon:
+Heavy Metal
+Laser Focus
+Flash Cannon
+Dragon Pulse
+Metal Claw
+Dragon Tail
+Stealth Rock
+Eldegoss:
+Cotton Down
+Leafage
+Leaf Tornado
+Pollen Puff
+Synthesis
+Cotton Guard
+Cotton Spore 
+Espeon:
+Magic Bounce
+Swift
+Psyshock
+Stored Power
+Growl
+Psybeam
+Future Sight
+Falinks:
+Battle Armor
+Tackle
+Megahorn
+Iron Head
+Bulk Up
+No Retreat
+Beat Up
+Garchomp:
+Rough Skin 
+Sand Attack
+Dig 
+Dragon Rush
+Bulldoze
+Earthquake
+Dragon Claw
+Gardevoir:
+Synchronize
+Confusion
+Psychic
+Moonblast
+Teleport
+Psyshock
+Future Sight
+Gengar:
+Cursed Body
+Will-O-Wisp
+Shadow Ball
+Sludge Bomb
+Lick
+Dream Eater
+Hex
+Glaceon:
+Snow Cloak
+Swift
+Icicle Spear
+Icy Wind
+Tail Whip
+Ice Shard
+Freeze-Dry
+Goodra:
+Gooey
+Bubble
+Muddy Water
+Dragon Pulse
+Tackle
+Power Whip
+Acid Spray
+Greedent:
+Cheek Pouch
+Tackle
+Bullet Seed 
+Belch
+Defense Curl 
+Stuff Cheeks
+Covet
+Greninja:
+Torrent
+Bubble
+Water Shuriken
+Surf
+Substitute
+Double Team
+Smokescreen
+Gyarados:
+Moxie
+Flail
+Dragon Breath 
+Aqua Tail
+Splash
+Waterfall
+Bounce
+Hoopa:
+Magician
+Astonish
+Phantom Force
+Shadow Ball
+Confusion
+Hyperspace Hole
+Trick
+Inteleon:
+Sniper
+Tearful Look
+Fell Stinger
+Acrobatics
+Water Gun
+Snipe Shot
+Liquidation
+Lapras:
+Shell Armor
+Whirlpool
+Water Pulse
+Perish Song
+Ice Shard
+Bubble Beam
+Ice Beam
+Leafeon:
+Chlorophyll
+Swift
+Razor Leaf
+Solar Blade
+Quick Attack
+Aerial Ace
+Leaf Blade
+Lucario:
+Steadfast
+Quick Attack
+Extreme Speed
+Power-Up Punch
+Meteor Mash
+Bone Rush
+Close Combat
+Machamp:
+Guts
+Karate Chop 
+Close Combat
+Cross Chop
+Bulk Up
+Dynamic Punch
+Submission
+Mamoswine:
+Thick Fat 
+Ice Shard
+Icicle Crash
+Ice Fang
+Tackle
+High Horsepower
+Earthquake
+Meowscarada:
+Overgrow
+Leafage
+Flower Trick
+Night Slash
+Hone Claws
+Double Team
+Trailblaze
+Metagross:
+Clear Body
+Iron Defense
+Meteor Mash
+Gyro Ball
+Tackle
+Zen Headbutt
+Magnet Rise
+Mew:
+Synchronize
+Electro Ball
+Solar Beam
+Surf
+Coaching
+Light Screen 
+Agility
+Mimikyu:
+Disguise
+Astonish
+Play Rough
+Shadow Claw
+Scratch
+Shadow Sneak
+Trick Room
+Mr. Mime:
+Filter
+Fake Out
+Confusion
+Psychic
+Light Screen
+Barrier
+Power Swap
+Ninetales-Alola:
+Snow Warning
+Powder Snow
+Avalanche
+Dazzling Gleam
+Icy Wind
+Blizzard
+Aurora Veil
+Pikachu:
+Static
+Thunder Shock
+Electro Ball
+Thunder
+Electroweb
+Volt Tackle
+Thunderbolt
+Psyduck:
+Swift Swim
+Confusion
+Surf
+Bubble Beam
+Tail Whip
+Disable
+Psychic
+Rapidash-Galar:
+Pastel Veil
+Confusion
+Dazzling Gleam
+Fairy Wind
+Tackle
+Smart Strike
+Agility
+Sableye:
+Prankster
+Thief
+Knock Off
+Shadow Sneak
+Astonish
+Feint Attack
+Confuse Ray 
+Scizor:
+Technician
+Fury Cutter
+Bullet Punch
+Quick Attack
+Double Hit
+Swords Dance
+Scyther:
+Technician
+Fury Cutter
+Dual Wingbeat
+Quick Attack
+Double Hit
+Swords Dance
+Slowbro:
+Oblivious
+Water Gun
+Scald
+Surf
+Slack Off
+Amnesia
+Telekinesis
+Snorlax:
+Gluttony
+Tackle
+Heavy Slam
+Flail
+Rest
+Block
+Yawn
+Sylveon:
+Pixilate
+Swift
+Mystical Fire
+Hyper Voice
+Baby-Doll Eyes
+Draining Kiss
+Calm Mind
+Talonflame:
+Gale Wings
+Peck
+Flame Charge
+Aerial Ace
+Acrobatics
+Fly 
+Brave Bird
+Tinkaton:
+Mold Breaker
+Rock Smash
+Gigaton Hammer
+Smack Down
+Fairy Wind
+Ice Hammer
+Thief
+Trevenant:
+Natural Cure
+Will-O-Wisp
+Wood Hammer
+Curse
+Branch Poke
+Horn Leech
+Pain Split
+Tsareena:
+Queenly Majesty
+Razor Leaf
+Triple Axel
+Stomp
+Rapid Spin
+Trop Kick
+Grassy Glide
+Tyranitar:
+Sand Stream
+Bite 
+Dark Pulse
+Stone Edge
+Rock Polish 
+Ancient Power 
+Sand Tomb
+Umbreon:
+Inner Focus
+Swift
+Mean Look
+Foul Play
+Fake Tears
+Wish
+Snarl
+Urshifu:
+Unseen Fist
+Rock Smash
+Wicked Blow
+Headbutt
+Throat Chop
+Urshifu-Rapid-Strike:
+Unseen Fist
+Rock Smash
+Surging Strikes
+Headbutt
+Liquidation
+Venusaur:
+Overgrow
+Seed Bomb
+Sludge Bomb
+Giga Drain 
+Razor Leaf
+Solar Beam
+Petal Dance
+Wigglytuff:
+Cute Charm
+Pound
+Double Slap
+Dazzling Gleam 
+Defense Curl 
+Rollout
+Sing 
+Zeraora:
+Volt Absorb
+Agility
+Volt Switch
+Spark
+Slash
+Discharge
+Wild Charge
+Zoroark:
+Illusion
+Slash
+Shadow Claw
+Cut
+Fury Swipes
+Night Slash
+Feint Attack
